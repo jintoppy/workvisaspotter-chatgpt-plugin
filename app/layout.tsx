@@ -2,18 +2,18 @@ import "./globals.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-  title: "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+  title:
+    "WorkVisaSpotter - ChatGPT Plugin to get jobs in US offering visa sponsorship",
   description:
-    "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
+    "WorkVisaSpotter is a ChatGPT Plugin to get jobs in US offering visa sponsorship",
   twitter: {
     card: "summary_large_image",
     title:
-      "WeatherGPT - ChatGPT Plugin to get the weather of any given location",
+      "WorkVisaSpotter - ChatGPT Plugin to get jobs in US offering visa sponsorship",
     description:
-      "WeatherGPT is a ChatGPT Plugin to get the weather of any given location. Built with Next.js and served from Vercel's Edge Network.",
-    creator: "@steventey",
+      "WorkVisaSpotter is a ChatGPT Plugin to get jobs in US offering visa sponsorship",
+    creator: "@jintoppy",
   },
-  metadataBase: new URL("https://weathergpt.vercel.app"),
   themeColor: "#FFF",
 };
 
