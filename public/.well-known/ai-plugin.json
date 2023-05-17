@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://workvisaspotter-chatgpt-plugin.vercel.app/openapi.yaml",
+    "url": "https://workvisaspotter-chatgpt-plugin.vercel.app/openapi.json",
     "is_user_authenticated": false
   },
   "logo_url": "https://workvisaspotter.xyz/logo_red_without_text.png",
