@@ -8,7 +8,7 @@ export async function GET(req: NextRequest) {
 
   const baseUrl = "https://workvisaspotter.xyz";
 
-  const url = `${baseUrl}/jobs?keyword=${keyword}`;
+  const url = `${baseUrl}/api/quick-search?keyword=${keyword}`;
 
   const res = await fetch(url, {
     method: "GET",
