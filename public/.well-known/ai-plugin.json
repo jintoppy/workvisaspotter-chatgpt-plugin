@@ -1,9 +1,9 @@
 {
   "schema_version": "v1",
-  "name_for_human": "WorkVisaSpotter Plugin (no auth)",
+  "name_for_human": "WorkVisaSpotter Plugin",
   "name_for_model": "WorkVisaSpotter",
-  "description_for_human": "Plugin for finding jobs in US offering visa.",
-  "description_for_model": "Plugin for finding jobs in US offering visa.",
+  "description_for_human": "Plugin for finding jobs in US offering visa sponsorship.",
+  "description_for_model": "Plugin for finding jobs in US offering visa sponsorship.",
   "auth": {
     "type": "none"
   },
