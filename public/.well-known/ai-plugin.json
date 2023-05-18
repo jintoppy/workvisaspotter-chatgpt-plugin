@@ -3,7 +3,7 @@
   "name_for_human": "WorkVisaSpotter Plugin",
   "name_for_model": "WorkVisaSpotter",
   "description_for_human": "Plugin for finding jobs in US offering visa sponsorship.",
-  "description_for_model": "Plugin for finding jobs in US offering visa sponsorship.",
+  "description_for_model": "Plugin for finding jobs in US offering visa sponsorship. Take url and title from the response and give link to title using the url",
   "auth": {
     "type": "none"
   },
